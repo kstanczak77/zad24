@@ -1,1 +1,3 @@
-alert('Uwielbiam Java Script');
+let tytul='Uwielbiam Java Script';
+
+console.log(tytul);
